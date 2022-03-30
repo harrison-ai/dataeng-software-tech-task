@@ -13,10 +13,11 @@ open-source libraries if desired.
 
 ## Task Expectations
 
-You will be given a private copy of this repository to work in, and the email address of a member of the
-team who you're welcome to contact with any questions. Please implement the requirements described below,
-[submit them as a Pull Request in GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request),
-and be prepared to discuss your solution in the scheduled technical interview.
+Please take a copy of this repo, implement the requirements described below, and push them to GitHub
+for discussion in the scheduled technical interview. You're welcome to use a private repository, but
+please ensure that it is visible to `@doc-E-brown`, `@oliverdaff`, `@rfk` and `@timleslie`.
+
+You will be given the email address of a member of the team, who you're welcome to contact with any questions.
 
 **Please don't spend more than a few hours on this task**.
 
