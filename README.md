@@ -27,8 +27,9 @@ It's not a trick question and we're not expecting anything too elaborate. It's a
 help us get to know you through your code - how you break down a problem, how you structure your code, and how you
 communicate about it with your potential future team-mates.
 
-We'll be looking for well-structured, clear, maintainable code with reasonable performance characteristics.
-We will *not* be looking for micro-optimisations or for every single detail to be carefully polished.
+We'll be looking for well-structured and documented code, that is clear and maintainable with reasonable
+performance characteristics. We will *not* be looking for micro-optimisations or for every single detail to be
+carefully polished.
 
 ## About DICOM
 
