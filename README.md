@@ -13,11 +13,13 @@ open-source libraries if desired.
 
 ## Task Expectations
 
-Please take a copy of this repo, implement the requirements described below, and push them to GitHub
-for discussion in the scheduled technical interview. You're welcome to use a private repository, but
-please ensure that it is visible to `@doc-E-brown`, `@oliverdaff`, `@rfk` and `@timleslie`.
+You should take a copy of this repo, implement the requirements described below, and push them to GitHub
+for discussion in the scheduled technical interview. You're welcome to use a private repository, as
+long as it is visible to `@doc-E-brown`, `@oliverdaff`, `@rfk` and `@timleslie`.
 
-You will be given the email address of a member of the team, who you're welcome to contact with any questions.
+You will be given the email address of a member of the team, and should email this person with a link to your
+solution at least 24 hours before the scheduled technical interview. You're also encouraged to email them with
+questions at any time while working on this task.
 
 **Please don't spend more than a few hours on this task**.
 
